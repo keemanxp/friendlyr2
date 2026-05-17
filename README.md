@@ -54,6 +54,4 @@ The skill enforces:
 MIT. See `LICENSE`.
 
 ## Author
-
-Chuah Kee Man — *The Sepet Educator*  
-[github.com/keemanxp](https://github.com/keemanxp)
+Chuah Kee Man | Universiti Malaysia Sarawak
