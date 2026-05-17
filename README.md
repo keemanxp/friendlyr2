@@ -1,4 +1,4 @@
-# friendlyR2
+# Friendly Reviewer2 - Claude Skill
 
 A Claude skill that turns Claude into a strict but constructive senior reviewer for Q1 (top-quartile) journals — across any discipline. The friendly Reviewer 2. Tough, but every point lands.
 
